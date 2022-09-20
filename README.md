@@ -1,5 +1,5 @@
 # SAWH-predict
-SAWH-predict calculations for the paper "xxx", currently in-review at ppp.
+SAWH-predict calculations for the paper "Global practical potential for metal–organic frameworks assisted atmosphere water harvesting", currently in-review at Nature Water.
 
 This code predicts water withdrawal and minimum energy requirements for SAWH installations with different MOFs.
 
