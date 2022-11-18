@@ -1,0 +1,11 @@
+cal_SBCool.m is the energy consumption calculation sub-function
+
+main_ex1.m is the main data preprocessing program
+
+main_ex2.m is the minimum power calculation main program, it will 
+generate some intermediate files for error correction. Please make 
+sure you have enough space on your disk before running.
+
+main_ex_fig.m is the minimum energy map program
+
+RH_cal.m is the relative humidity calculation sub-function
